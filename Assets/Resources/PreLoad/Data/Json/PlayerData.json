@@ -1,0 +1,13 @@
+{
+  "players": [
+    {
+      "playerType": 1,
+      "maxHp": 100,
+      "atkDamage": 10,
+      "defence": 3,
+      "atkSpeed": 1,
+      "prefabName": "Hero",
+      "skillTemplateId": 1
+    }
+  ]
+}

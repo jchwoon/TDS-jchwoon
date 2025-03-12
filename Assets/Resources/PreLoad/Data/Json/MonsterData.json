@@ -1,0 +1,52 @@
+{
+  "monsters": [
+    {
+      "templateId": 1,
+      "maxHp": 100,
+      "moveSpeed": 5,
+      "attackDamage": 10,
+      "attackRange": 1.5,
+      "defence": 3,
+      "attackSpeed": 1,
+      "name": "NormalZombie",
+      "prefabName": "Zombie1",
+      "skillTemplateId": 100
+    },
+    {
+      "templateId": 2,
+      "maxHp": 50,
+      "moveSpeed": 5,
+      "attackDamage": 20,
+      "attackRange": 1.5,
+      "defence": 0,
+      "attackSpeed": 1.5,
+      "name": "CrazyZombie",
+      "prefabName": "Zombie2",
+      "skillTemplateId": 100
+    },
+    {
+      "templateId": 3,
+      "maxHp": 100,
+      "moveSpeed": 5,
+      "attackDamage": 5,
+      "attackRange": 1.5,
+      "defence": 10,
+      "attackSpeed": 1,
+      "name": "TankZombie",
+      "prefabName": "Zombie3",
+      "skillTemplateId": 100
+    },
+    {
+      "templateId": 4,
+      "maxHp": 200,
+      "moveSpeed": 5,
+      "attackDamage": 15,
+      "attackRange": 1.5,
+      "defence": 10,
+      "attackSpeed": 1.5,
+      "name": "SuperZombie",
+      "prefabName": "Zombie4",
+      "skillTemplateId": 100
+    }
+  ]
+}

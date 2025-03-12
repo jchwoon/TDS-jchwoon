@@ -1,0 +1,27 @@
+{
+  "skills": [
+    {
+      "templateId": 1,
+      "skillType": 1,
+      "skillAreaType": 2,
+      "animName": "NormalAttack",
+      "skillRange": 5,
+      "animTime": 1,
+      "castingTime": 0.6,
+      "animParamName": "SkillA",
+      "maxHitCount": 3,
+      "sectorAngle": 30
+    },
+    {
+      "templateId": 100,
+      "skillType": 1,
+      "skillAreaType": 1,
+      "animName": "NormalAttack",
+      "skillRange": 1,
+      "animTime": 1,
+      "castingTime": 0.6,
+      "animParamName": "SkillA",
+      "maxHitCount": 1
+    }
+  ]
+}

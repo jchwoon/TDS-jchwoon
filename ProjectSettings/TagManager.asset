@@ -3,7 +3,9 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Hero
+  - Ground
   layers:
   - Default
   - TransparentFX
@@ -11,11 +13,11 @@ TagManager:
   - 
   - Water
   - UI
-  - 
-  - 
-  - 
-  - 
-  - 
+  - BottomLayer
+  - MiddleLayer
+  - TopLayer
+  - Truck
+  - MainLayer
   - 
   - 
   - 
@@ -40,4 +42,16 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Top
+    uniqueID: 2135353379
+    locked: 0
+  - name: Middle
+    uniqueID: 998477023
+    locked: 0
+  - name: Bottom
+    uniqueID: 1076541833
+    locked: 0
+  - name: UI
+    uniqueID: 961558019
     locked: 0

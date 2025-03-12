@@ -1,0 +1,24 @@
+{
+  "stages": [
+    {
+      "stage": 1,
+      "name": "Dead Zone",
+      "stageDuration": 20
+    },
+    {
+      "stage": 2,
+      "name": "Infected Streets",
+      "stageDuration": 30
+    },
+    {
+      "stage": 3,
+      "name": "Forsaken City",
+      "stageDuration": 40
+    },
+    {
+      "stage": 4,
+      "name": "Hellscape Outbreak",
+      "stageDuration": 50
+    }
+  ]
+}
